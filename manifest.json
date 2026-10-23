@@ -1,0 +1,7 @@
+{
+  "name": "ProfileUnlocked",
+  "description": "Badges, Nitro e troca de nome sem limite (client-side).",
+  "authors": [{ "name": "Voce", "id": "1562977506527682593" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_profile_24px" }
+}
